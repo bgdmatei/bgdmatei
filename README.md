@@ -19,10 +19,10 @@ Hi! I'm Bogdan, a Front-End Developer living in London. Besides Web Development,
 ### Stats 
 
 <a href="https://github.com/bgdmatei?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=bgdmatei&count_private=true&show_icons=true&theme=dark&include_all_commit=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bgdmatei&count_private=true&show_icons=true&theme=dark&include_all_commit=true" width="48%" align="center" />
 </a> 
 
 <a href="https://github.com/bgdmatei?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align="center" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align="center" width="40%" />
 </a>
 
