@@ -1,16 +1,28 @@
-### Hi there 👋
+### About me
 
-<!--
-**bgdmatei/bgdmatei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Bogdan, a Front-End Developer living in London. Besides Web Development, I to spend my time travelling, playing football and play video games.
 
-Here are some ideas to get you started:
+### How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mateibogdan/" >
+ <img src="logos/linkedin.png" width="auto" height="50px" />
+</a>
+
+<a href="https://www.bogdanadrianmatei.com/" >
+ <img src="logos/user.png" width="auto" height="50px" />
+</a>
+	
+<a href="https://twitter.com/bgdmatei" >
+ <img src="logos/twitter.png" width="auto" height="50px" />
+</a>
+
+### Stats 
+
+<a href="https://github.com/bgdmatei?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api?username=bgdmatei&count_private=true&show_icons=true&theme=dark&include_all_commit=true" align="center" />
+</a> 
+
+<a href="https://github.com/bgdmatei?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align="center" height="195px" margin="20px" />
+</a>
+
