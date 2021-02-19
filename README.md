@@ -23,6 +23,6 @@ Hi! I'm Bogdan, a Front-End Developer living in London. Besides Web Development,
 </a> 
 
 <a href="https://github.com/bgdmatei?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align="center" height="195px" margin="20px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark" align="center" height="195px" />
 </a>
 
