@@ -8,13 +8,15 @@ Hi! I'm Bogdan, a Front-End Developer living in London. Besides Web Development,
  <img src="logos/linkedin.png" width="auto" height="50px" />
 </a>
 
+<a href="https://twitter.com/bgdmatei" >
+ <img src="logos/twitter.png" width="auto" height="50px" />
+</a>
+
 <a href="https://www.bogdanadrianmatei.com/" >
  <img src="logos/user.png" width="auto" height="50px" />
 </a>
 	
-<a href="https://twitter.com/bgdmatei" >
- <img src="logos/twitter.png" width="auto" height="50px" />
-</a>
+
 
 ### Stats 
 
