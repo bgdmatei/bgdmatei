@@ -1,6 +1,6 @@
 ### About me
 
-Hi! I'm Bogdan, a Front-End Developer living in London. Besides Web Development, I to spend my time travelling, playing football and play video games.
+Hi! I'm Bogdan, a Front-End Developer living in London. Besides Web Development, I like to spend my time travelling, playing football and play video games.
 
 ### How to reach me:
 
