@@ -15,16 +15,4 @@ Hi! I'm Bogdan, a Senior Frontend Developer living in Rotterdam, Netherlands. Be
 <a href="https://www.bogdanadrianmatei.com/" >
  <img src="logos/user.png" width="auto" height="50px" />
 </a>
-	
-
-
-### Stats 
-
-<a href="https://github.com/bgdmatei?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api?username=bgdmatei&count_private=true&show_icons=true&theme=tokyonight&include_all_commit=true" width="48%" align="center" />
-</a> 
-
-<a href="https://github.com/bgdmatei?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" align="center" width="40%" />
-</a>
 
